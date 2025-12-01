@@ -1,4 +1,4 @@
-# Daniel-Allard-References
+# Daniel Allard References
 
 Software Manager, Architect, Designer, Developer
 
