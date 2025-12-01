@@ -40,20 +40,14 @@ https://github.com/NASA-JPL-Spacecraft-Analysis/TACO/
 
 [“Mars Relay Operations Service (MaROS): Managing Strategic and Tactical Relay for the Evolving Mars Network”, IEEE Montana Conference 2012](https://ieeexplore.ieee.org/document/6187115)
 
-[“Adaptation of the Agile Scrum Methodology for the Implementation of Multi-Mission Relay Coordination Software”, INCOSE Mini-Conference 2013]
-(https://ntrs.nasa.gov/citations/20150007147)
+[“Adaptation of the Agile Scrum Methodology for the Implementation of Multi-Mission Relay Coordination Software”, INCOSE Mini-Conference 2013](https://ntrs.nasa.gov/citations/20150007147)
 
-[“Ground Data System Analysis Tools to Track Flight System State Parameters for the Mars Science Laboratory (MSL) and Beyond”, AIAA Conference Pasadena, CA 2014]
-(https://arc.aiaa.org/doi/10.2514/6.2014-1741)
+[“Ground Data System Analysis Tools to Track Flight System State Parameters for the Mars Science Laboratory (MSL) and Beyond”, AIAA Conference Pasadena, CA 2014](https://arc.aiaa.org/doi/10.2514/6.2014-1741)
 
-[“Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2021]
-(https://arxiv.org/abs/2111.10970)
+[“Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2021](https://arxiv.org/abs/2111.10970)
 
-[“Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2022]
-(https://ieeexplore.ieee.org/document/9843352)
+[“Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2022](https://ieeexplore.ieee.org/document/9843352)
 
-[“Workflows. User Interfaces, and Algorithms for Operations of Autonomous Spacecraft”, IEEE 2023]
-(https://ieeexplore.ieee.org/document/10115605)
+[“Workflows. User Interfaces, and Algorithms for Operations of Autonomous Spacecraft”, IEEE 2023](https://ieeexplore.ieee.org/document/10115605)
 
-[“Communications Across Complex Space Networks”, IEEE Montana Conference 2008]
-(https://ieeexplore.ieee.org/document/4526323)
+[“Communications Across Complex Space Networks”, IEEE Montana Conference 2008](https://ieeexplore.ieee.org/document/4526323)
