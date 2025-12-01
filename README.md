@@ -38,7 +38,7 @@ https://github.com/NASA-JPL-Spacecraft-Analysis/TACO/
 
 [“Evaluating COTS Component Dependability in Context”](https://ieeexplore.ieee.org/document/6187115), IEEE Software July/August 2005
 
-[“Mars Relay Operations Service (MaROS): Managing Strategic and Tactical Relay for the Evolving Mars Network”], IEEE Montana Conference 2012
+[“Mars Relay Operations Service (MaROS): Managing Strategic and Tactical Relay for the Evolving Mars Network”](https://ieeexplore.ieee.org/document/6187115), IEEE Montana Conference 2012
 
 [“Adaptation of the Agile Scrum Methodology for the Implementation of Multi-Mission Relay Coordination Software”](https://ntrs.nasa.gov/citations/20150007147), INCOSE Mini-Conference 2013
 
