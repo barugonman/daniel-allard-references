@@ -22,6 +22,7 @@ https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resu
 **Studies of AI for Coding**
 
 https://github.com/Software-Bridge/bridge-discussions/discussions/3
+
 https://github.com/Software-Bridge/bridge-discussions/discussions/2
 
 **Flight and Ground Software Integration**
