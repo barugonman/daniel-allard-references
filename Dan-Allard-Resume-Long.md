@@ -128,43 +128,23 @@ Development of real-time monitoring software for Deep Space Network; development
 
 #### Publications With Links
 
-“Evaluating COTS Component Dependability in Context”, IEEE Software July/August 2005
+## Key Publications
 
-https://ieeexplore.ieee.org/document/1463207/
+[“Evaluating COTS Component Dependability in Context”](https://ieeexplore.ieee.org/document/6187115), IEEE Software July/August 2005
 
-“Mars Relay Operations Service (MaROS): Managing Strategic and Tactical Relay for the Evolving Mars Network”, IEEE Montana Conference 2012
+[“Communications Across Complex Space Networks”](https://ieeexplore.ieee.org/document/4526323), IEEE Montana Conference 2008
 
-https://ieeexplore.ieee.org/document/6187115?denied=
+[“Mars Relay Operations Service (MaROS): Managing Strategic and Tactical Relay for the Evolving Mars Network”](https://ieeexplore.ieee.org/document/6187115), IEEE Montana Conference 2012
 
-“Adaptation of the Agile Scrum Methodology for the Implementation of Multi-Mission Relay Coordination Software”, INCOSE Mini-Conference 2013
+[“Adaptation of the Agile Scrum Methodology for the Implementation of Multi-Mission Relay Coordination Software”](https://ntrs.nasa.gov/citations/20150007147), INCOSE Mini-Conference 2013
 
-https://ntrs.nasa.gov/citations/20150007147
+[“Ground Data System Analysis Tools to Track Flight System State Parameters for the Mars Science Laboratory (MSL) and Beyond”](https://arc.aiaa.org/doi/10.2514/6.2014-1741), AIAA Conference Pasadena, CA 2014
 
-“Ground Data System Analysis Tools to Track Flight System State Parameters for the Mars Science Laboratory (MSL) and Beyond”, AIAA Conference Pasadena, CA 2014
+[“Operations for Autonomous Spacecraft”](https://arxiv.org/abs/2111.10970), IEEE Aerospace Conference 2021
 
-https://arc.aiaa.org/doi/10.2514/6.2014-1741
+[“Operations for Autonomous Spacecraft”](https://ieeexplore.ieee.org/document/9843352), IEEE Aerospace Conference 2022
 
-“Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2021
-
-https://arxiv.org/abs/2111.10970
-
-“Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2022
-
-https://ieeexplore.ieee.org/document/9843352
-
-“Workflows. User Interfaces, and Algorithms for Operations of Autonomous Spacecraft”, IEEE 2023
-
-https://ieeexplore.ieee.org/document/10115605
-
-“Communications Across Complex Space Networks”, IEEE Montana Conference 2008 
-
-https://ieeexplore.ieee.org/document/4526323
-
-“Development of a Ground Data Messaging Infrastructure for the Mars Science Laboratory and Beyond”, IEEE Montana Conference 2007
-
-“Implementation of a Relay Coordination System for the Mars Network”, IEEE Montana Conference 2010
-
-“Strategic Planning and Coordination Interfaces for the Mars Relay Operations Service (MaROS)”, IEEE Montana Conference 2010 
+[“Workflows. User Interfaces, and Algorithms for Operations of Autonomous Spacecraft”](https://ieeexplore.ieee.org/document/10115605), IEEE 2023
 
 
 
