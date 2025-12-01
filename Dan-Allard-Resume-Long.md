@@ -128,12 +128,9 @@ https://ieeexplore.ieee.org/document/9843352
 
 https://ieeexplore.ieee.org/document/10115605
 
-Others
-
 “Communications Across Complex Space Networks”, IEEE Montana Conference 2008 
 
-Summary only:
-https://www.scribd.com/document/38837484/2008-Digest-Rev18web
+https://ieeexplore.ieee.org/document/4526323
 
 “Development of a Ground Data Messaging Infrastructure for the Mars Science Laboratory and Beyond”, IEEE Montana Conference 2007
 
