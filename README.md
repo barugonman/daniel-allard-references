@@ -30,8 +30,7 @@ https://github.com/NASA-JPL-Spacecraft-Analysis/TACO/
 
 ## Publications
 
-“Evaluating COTS Component Dependability in Context”, IEEE Software July/August 2005
-https://ieeexplore.ieee.org/document/1463207/
+[“Evaluating COTS Component Dependability in Context”, IEEE Software July/August 2005](https://ieeexplore.ieee.org/document/1463207/)
 
 “Mars Relay Operations Service (MaROS): Managing Strategic and Tactical Relay for the Evolving Mars Network”, IEEE Montana Conference 2012
 https://ieeexplore.ieee.org/document/6187115?denied=
