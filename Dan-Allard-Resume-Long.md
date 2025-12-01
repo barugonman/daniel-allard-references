@@ -1,4 +1,4 @@
-### Daniel A Allard Resume (Long)
+## Daniel A Allard Resume (Long)
 
 1220 North Gilmax Ln
 
@@ -6,14 +6,14 @@ Poulsbo, WA 98370
 
 Work/Cell (360) 535 1429
 
-#### Objective
+### Objective
 
 Architecture, engineering, design, development, testing of ground data system software for a variety of mission projects.  Improve overall state of the art for flight mission operations.  
 
 Summary
 Senior engineer, architect and development lead of critical mission software systems. 
 
-#### Education 
+### Education 
 
 B.S. Engineering Physics, 1991
 Tufts University, Medford MA
@@ -22,19 +22,19 @@ JPL and USC classes on software architecture, engineering and design.
 
 Computer Skills
 
-#### Capabilities
+### Capabilities
 
 As developer, lead developer, engineer, and system architect, capable of performing the following: proposing and winning work, long and short-range project planning, managing staff, managing projects, requirements, architecture, design, testing, test plans, software delivery management…  Capabilities applied for the following projects:
 
-#### Software
+### Software
 
 Python, Java, C, Motif, Perl, Java RMI, Java JNI, Oracle PL/SQL, Unix, HTML, Eclipse Plug-In, RCP, SWT, Javascript, Ruby, Ruby on Rails
 
-#### Hardware
+### Hardware
 
 Linux, Mac, Sun Workstation, HP Workstation, PC/Windows
 
-#### Experience 
+### Experience 
 
 Senior member of technical staff, Jet Propulsion Laboratory 1991 – 2025
 
@@ -126,7 +126,7 @@ C/Motif development of MSAS tools, including: Data Dictionary editor, Analysis E
 
 Development of real-time monitoring software for Deep Space Network; development of C/Motif tools including real-time displays and plots; development of a display compiler using YACC/LEX; development of NOCC support utilities and libraries.
 
-Publications With Links
+#### Publications With Links
 
 “Evaluating COTS Component Dependability in Context”, IEEE Software July/August 2005
 
