@@ -7,7 +7,7 @@ Software Manager, Architect, Designer, Developer
 - 34 years software development and management at Jet Propulsion Laboratory, NASA
 - Support for missions Cassini, MSL, MER, SMAP, M20, Europa Clipper
 
----
+----
 
 **Short Resume**
 
@@ -16,6 +16,8 @@ https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resu
 **Long Resume**
 
 https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Long.md
+
+----
 
 ## Projects
 
