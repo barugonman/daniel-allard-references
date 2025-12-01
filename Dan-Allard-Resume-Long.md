@@ -114,7 +114,7 @@ https://ntrs.nasa.gov/citations/20150007147
 
 “Ground Data System Analysis Tools to Track Flight System State Parameters for the Mars Science Laboratory (MSL) and Beyond”, AIAA Conference Pasadena, CA 2014
 
-https://arc.aiaa.org/doi/book/10.2514/MSPOPS14
+https://arc.aiaa.org/doi/10.2514/6.2014-1741
 
 “Operations for Autonomous Spacecraft”, IEEE Aerospace Conference 2021
 
