@@ -1,12 +1,13 @@
 # Daniel Allard References
 
+---
+
 Software Manager, Architect, Designer, Developer
 
 - 34 years software development and management at Jet Propulsion Laboratory, NASA
 - Support for missions Cassini, MSL, MER, SMAP, M20, Europa Clipper
 
-----
-
+---
 
 **Short Resume**
 
