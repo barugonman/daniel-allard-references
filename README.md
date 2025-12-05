@@ -65,7 +65,7 @@ https://github.com/NASA-JPL-Spacecraft-Analysis/TACO/
 
 ----
 
-## [Arts and Crafts and Cooking[(https://github.com/Software-Bridge/arts-and-crafts-and-cooking/tree/main)
+## [Arts and Crafts and Cooking](https://github.com/Software-Bridge/arts-and-crafts-and-cooking/tree/main)
 
 [Recipes](https://github.com/Software-Bridge/arts-and-crafts-and-cooking/tree/main/recipes)
 
