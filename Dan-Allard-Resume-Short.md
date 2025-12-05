@@ -1,0 +1,10 @@
+![Dan-Allard-Resume-Short-img 1](https://github.com/user-attachments/assets/00ebb77e-5726-4c38-8006-a66cc64ccc0a)
+
+[1](https://ieeexplore.ieee.org/document/6187115)
+[2](https://ieeexplore.ieee.org/document/4526323)
+[3](https://ieeexplore.ieee.org/document/6187115)
+[4](https://ntrs.nasa.gov/citations/20150007147)
+[5](https://arc.aiaa.org/doi/10.2514/6.2014-1741)
+[6](https://arxiv.org/abs/2111.10970)
+[7](https://ieeexplore.ieee.org/document/9843352)
+[8](https://ieeexplore.ieee.org/document/10115605)
