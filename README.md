@@ -5,6 +5,8 @@ Software Manager, Architect, Designer, Developer
 - 34 years software development and management at Jet Propulsion Laboratory, NASA
 - Support for missions Cassini, MSL, MER, SMAP, M20, Europa Clipper
 
+Looking to take my experience and try something new!
+
 ----
 
 **Short Resume**
@@ -14,6 +16,12 @@ https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resu
 **Long Resume**
 
 https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Long.md
+
+----
+
+email: daniel.allard99@gmail.com
+Discord: gameraman8660
+Linkedin: https://www.linkedin.com/in/dan-allard-45ba0b26/
 
 ----
 
@@ -52,4 +60,12 @@ https://github.com/NASA-JPL-Spacecraft-Analysis/TACO/
 [“Operations for Autonomous Spacecraft”](https://ieeexplore.ieee.org/document/9843352), IEEE Aerospace Conference 2022
 
 [“Workflows. User Interfaces, and Algorithms for Operations of Autonomous Spacecraft”](https://ieeexplore.ieee.org/document/10115605), IEEE 2023
+
+----
+
+## [Arts and Crafts and Cooking[(https://github.com/Software-Bridge/arts-and-crafts-and-cooking/tree/main)
+
+[Recipes](https://github.com/Software-Bridge/arts-and-crafts-and-cooking/tree/main/recipes)
+
+[Miniatures Projects](https://github.com/Software-Bridge/arts-and-crafts-and-cooking/tree/main/miniatures)
 
