@@ -8,6 +8,7 @@ Software Manager, Architect, Designer, Developer
 Looking to take my experiences and try something new!
 
 QR for this URL:
+
 <img width="200" height="" alt="dan-allard-references" src="https://github.com/user-attachments/assets/6da608a1-539f-4e1e-ac6f-b429b7c25203" />
 
 ----
