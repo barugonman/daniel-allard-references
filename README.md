@@ -5,7 +5,7 @@ Software Manager, Architect, Designer, Developer
 - 34 years software development and management at Jet Propulsion Laboratory, NASA
 - Support for missions Cassini, MSL, MER, SMAP, M20, Europa Clipper
 
-Looking to take my experience and try something new!
+Looking to take my experiences and try something new!
 
 ----
 
