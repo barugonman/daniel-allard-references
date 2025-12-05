@@ -1,10 +1,10 @@
 ## Daniel A Allard Resume (Long)
 
-1220 North Gilmax Ln
+email: daniel.allard99@gmail.com
 
-Poulsbo, WA 98370
+Discord: gameraman8660
 
-Work/Cell (360) 535 1429
+Linkedin: https://www.linkedin.com/in/dan-allard-45ba0b26/
 
 ### Objective
 
@@ -37,6 +37,10 @@ Linux, Mac, Sun Workstation, HP Workstation, PC/Windows
 ### Experience 
 
 Senior member of technical staff, Jet Propulsion Laboratory 1991 – 2025
+
+**AI Coding Researcher (Oct 2025-Present)**
+
+Working a variety of software maintenance and upgrade tasks using Coding LLMs, learning benefits and pain points of use. 
 
 **AMMOS Web Developer (Jan 2025-Oct 2025)**
 
