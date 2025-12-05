@@ -1,5 +1,6 @@
 ![Dan-Allard-Resume-Short-img 1](https://github.com/user-attachments/assets/00ebb77e-5726-4c38-8006-a66cc64ccc0a)
 
+Papers:
 [1](https://ieeexplore.ieee.org/document/6187115)
 [2](https://ieeexplore.ieee.org/document/4526323)
 [3](https://ieeexplore.ieee.org/document/6187115)
