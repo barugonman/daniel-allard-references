@@ -20,7 +20,9 @@ https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resu
 ----
 
 email: daniel.allard99@gmail.com
+
 Discord: gameraman8660
+
 Linkedin: https://www.linkedin.com/in/dan-allard-45ba0b26/
 
 ----
