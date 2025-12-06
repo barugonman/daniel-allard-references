@@ -15,11 +15,11 @@ QR for this URL:
 
 **Short Resume**
 
-https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Short.md
+[One page summary of skills and accomplishments](https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Short.md)
 
 **Long Resume**
 
-https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Long.md
+[Full work history and list of publications](https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Long.md)
 
 ----
 
