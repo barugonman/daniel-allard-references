@@ -15,7 +15,7 @@ QR for this URL:
 
 **Short Resume**
 
-https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Short.pdf
+https://github.com/barugonman/daniel-allard-references/blob/main/Dan-Allard-Resume-Short.md
 
 **Long Resume**
 
