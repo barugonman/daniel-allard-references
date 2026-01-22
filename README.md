@@ -9,7 +9,7 @@ Looking to take my experiences and try something new!
 
 QR for this URL:
 
-<img width="1147" height="1147" alt="qr-code" src="https://github.com/user-attachments/assets/c5102600-9cff-4915-9cc7-b1b47831bb2b" />
+<img width="200" height="200" alt="qr-code" src="https://github.com/user-attachments/assets/c5102600-9cff-4915-9cc7-b1b47831bb2b" />
 
 ----
 
