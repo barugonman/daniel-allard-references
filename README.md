@@ -13,7 +13,7 @@ QR for this URL:
 
 Dan's Final Task for JPL: Advanced Multi-Mission Operations System (AMMOS) Public Website
 
-[AMMOS Products Public Website](AMMOS https://ammos.nasa.gov/)
+[AMMOS Products Public Website](https://ammos.nasa.gov/)
 
 ----
 
