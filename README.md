@@ -4,7 +4,7 @@ Software Manager, Architect, Designer, Developer
 
 - 34 years software development and management at Jet Propulsion Laboratory, NASA
 - Support for missions Cassini, MSL, MER, SMAP, M20, Europa Clipper
-- Currently consulting for (Pacivic Volt)[https://www.pacificvolt.com/], purveyors of fine low voltage regulators.
+- Currently consulting for [Pacivic Volt][(https://www.pacificvolt.com/), purveyors of fine low voltage regulators.
 
 Looking to take my experiences and try something new!
 
