@@ -38,7 +38,7 @@ Linkedin: https://www.linkedin.com/in/dan-allard-45ba0b26/
 
 Representing Pacific Volt at TechAdvantage, Nashville TN, March 2026. 
 
-![IMG_1729](https://github.com/user-attachments/assets/486c3545-958c-4c54-aa6a-4cce7b8bba78)
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/486c3545-958c-4c54-aa6a-4cce7b8bba78" />
 
 ## Projects
 
